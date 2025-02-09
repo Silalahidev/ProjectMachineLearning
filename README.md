@@ -20,8 +20,13 @@ Proyek ini dilakukan secara **end-to-end**, mulai dari eksplorasi data hingga ev
 
 ## 🏆 Model & Hasil  
 - Model **Random Forest** digunakan untuk memprediksi apakah jumlah kredit yang diajukan lebih besar dari median pendapatan pemohon.  
-- Fitur paling berpengaruh dalam prediksi ini meliputi **pendapatan pemohon, jumlah pinjaman, dan riwayat kredit sebelumnya**.  
-Berikut Project Machine Leaning :  <href> https://github.com/Silalahidev/ProjectMachineLearning/blob/d0074b623341303328dfa0413128fcce6efe21f1/project.ipynb </href>
+- Fitur paling berpengaruh dalam prediksi ini meliputi **pendapatan pemohon, jumlah pinjaman, dan riwayat kredit sebelumnya**.
+
+## Project Machine Learning
+
+Berikut adalah project Machine Learning yang sedang saya kerjakan:  
+[Klik di sini untuk melihat notebook](https://github.com/Silalahidev/ProjectMachineLearning/blob/d0074b623341303328dfa0413128fcce6efe21f1/project.ipynb)
+
 
 
 ## 📝 Kesimpulan  
