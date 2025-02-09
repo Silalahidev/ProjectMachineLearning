@@ -19,14 +19,6 @@ Proyek ini dilakukan secara **end-to-end**, mulai dari eksplorasi data hingga ev
 - Model **Random Forest** digunakan untuk memprediksi apakah jumlah kredit yang diajukan lebih besar dari median pendapatan pemohon.  
 - Fitur paling berpengaruh dalam prediksi ini meliputi **pendapatan pemohon, jumlah pinjaman, dan riwayat kredit sebelumnya**.  
 
-## 📂 Struktur Repository  
-📁 `notebooks/` - File Jupyter Notebook utama berisi seluruh langkah proyek  
-📁 `data/` - Dataset (jika diperbolehkan untuk dibagikan)  
-📁 `models/` - Model yang telah dilatih dan siap digunakan  
-
-## 🔗 Coba Sendiri di Google Colab  
-Jika ingin menjalankan notebook ini di Google Colab, cukup klik tombol di bawah ini:  
-
 
 ## 📝 Kesimpulan  
 Proyek ini membantu saya memahami analisis data dan machine learning dalam dunia keuangan. Dengan model ini, diharapkan perusahaan dapat lebih memahami risiko kredit pelanggan dan mengambil keputusan yang lebih tepat.  
